@@ -18,6 +18,7 @@ This project integrates face recognition, sensor monitoring (distance, temperatu
 ### 1. Install Dependencies
 
 ```bash
+git clone https://github.com/digital1986/Timothy-facial-recognition
 pip install -r requirements.txt
 sudo apt-get install libatlas-base-dev
 ```
