@@ -58,9 +58,6 @@ Run:
 python3 all.py
 ```
 
-## Example
-
-![GUI Screenshot](assets/screenshot.png)
 
 ## Notes
 
@@ -70,5 +67,5 @@ python3 all.py
 ## Credits
 
 Based on code by:
-- Anirban Kar: [GitHub](https://github.com/thecodacus/Face-Recognition)
-- Marcelo Rovai (MJRoBot.org)
+- Timothy Nwadike: [https://github.com/digital1986/Timothy-facial-recognition)
+
